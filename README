@@ -1,0 +1,20 @@
+doronbruder
+204917629
+Doron Bruder
+Includes all the questions  needed - in separate files as asked 
+Websites:"stackoverflow"
+No special comments
+Inputs in check_maximum part:
+First input aim was to cover the cases where all the values in the list are equal-and get that the maximum is just the single value
+Second input aim was make sure that even if there is more than a single maximal value
+It will go right 
+Third input aim was to cover the cases where the list includes only one value
+And that the function will not ignore that value, and return it
+Theoretical  questions :
+1‪.‬ That an int has no length(the function shoulder get lists as parameters!)
+2‪.‬That too many parameters puted inside(the function should get a single ints list and not few ints)
+3‪.‬That the index of the histogram list is out of range (the function made to cases where the length of the list that produced is not above the number of different item the user put in
+4‪.‬ It will make no running or syntax problem , but there is no real meaning of the function when you put zero since zero has no factors
+5‪.‬it will make no problem the input is fully valid, however there is no meaning to input a list with  few identical values  
+
+ 
